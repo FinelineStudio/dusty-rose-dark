@@ -4,6 +4,10 @@
   "description": "A warm, dark theme with dusty rose and cream tones.",
   "version": "1.0.0",
   "publisher": "fineline-studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FinelineStudio/dusty-rose-dark"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
