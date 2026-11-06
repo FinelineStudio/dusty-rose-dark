@@ -18,7 +18,7 @@
     "themes": [
       {
         "label": "Dusty Rose Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Dusty Rose Dark-color-theme.json"
       }
     ]
